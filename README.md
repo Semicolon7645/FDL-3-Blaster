@@ -1,5 +1,20 @@
-[![](http://webapp.projectfdl.com/img/FDL%20Logo%20Tiny.png)](https://www.projectfdl.com)
+# Custom Firmware
 
+I've made some additions to fit my liking and I am sharing them here.
+
+**Overview**<br/>
+This menu options shows the current setting for *Speed*, *ROF (Rate of Fire)*, and *Burst*. The "Ammo" count is also displayed on the top left of the screen. The number will count down until it hits zero. At any time in this menu the knob can be turned to reset the count back to its starting value.
+
+**Ammo**<br/>
+Value: 0 - 100 : Default: 15<br/>
+This menu options lets you set the starting ammo count. If this value is set to zero then the count will not be displayed on the overview.
+
+**Melody**<br/>
+This is not a menu option but some behind the scense code to make it easy to play melodies through the buzzer. See "PlayMelody.ino" and "Pitches.h".
+
+<br/>
+
+[![](http://webapp.projectfdl.com/img/FDL%20Logo%20Tiny.png)](https://www.projectfdl.com)
   
 # FDL-3-Blaster
 
