@@ -1,6 +1,6 @@
 # Custom Firmware
 
-I've made some additions to fit my liking and I am sharing them here. They can be found in the "/Firmware/FDL-3_Firmware_v1.05c2" directory.
+I've made some additions to fit my liking and I am sharing them here. They can be found in the ["/Firmware/FDL-3_Firmware_v1.05c2"](https://github.com/Semicolon7645/FDL-3-Blaster/tree/master/Firmware/FDL-3_Firmware_v1.05c2) directory.
 
 **Overview**<br/>
 This menu options shows the current setting for *Speed*, *ROF (Rate of Fire)*, and *Burst*. The "Ammo" count is also displayed on the top left of the screen. The number will count down until it hits zero. At any time in this menu the knob can be turned to reset the count back to its starting value.
